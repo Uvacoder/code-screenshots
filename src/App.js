@@ -28,7 +28,7 @@ function App() {
   return (
     <React.Fragment>
       <Navbar bg="dark" variant="dark" expand="lg">
-        <Navbar.Brand>Code Screenshots</Navbar.Brand>
+        <Navbar.Brand>Screenshots of code</Navbar.Brand>
       </Navbar>
       <div class="container-fluid">
         <Row>
