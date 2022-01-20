@@ -65,7 +65,7 @@ function App() {
         </Row>
         <Row>
           <Col className="text-center column">
-            Created by <a href="https://www.twitter.com/nas5w">Nick Scialli</a>
+            Created by <a href="https://www.github.com/uvacoder">uvacoder</a>
           </Col>
         </Row>
       </div>
